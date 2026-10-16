@@ -20,4 +20,4 @@ dano = (base × mult_nível_estrela × (1 + ATK%_runas) + ATK_flat_runas)
        × mult_tier_run × mult_elemento × crit × (1 − armadura_efetiva)
 ```
 
-O código Luau do jogo fica no place do Studio. Veja [roblox-v1](https://github.com/giovaniohira/roblox-v1) para o fluxo com Rojo.
+O código Luau do jogo fica no place do Studio. Veja [roblox-keycap-tycoon](https://github.com/giovaniohira/roblox-keycap-tycoon) para o fluxo com Rojo.
